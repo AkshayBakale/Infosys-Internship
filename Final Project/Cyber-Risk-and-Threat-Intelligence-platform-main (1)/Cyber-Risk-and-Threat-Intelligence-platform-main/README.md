@@ -193,13 +193,13 @@ The `sample_test_targets.txt` file contains the following intentionally vulnerab
 
 | Name | GitHub |
 |---|---|
-| Akshay Bakale | [@userid1](https://github.com/AkshayBakale)
-| Dhanush Polasi | [@userid2](https://github.com/DhanushP545) |
-| Sujithraa | [@userid3](https://github.com/Suji2007hub) |
-| Noor Nabeeha | [@userid4](https://github.com/noornabeeha/) |
-| Eswar V | [@userid5](https://github.com/eswar0113) |
+| Akshay Bakale | [@AkshayBakale](https://github.com/AkshayBakale)
+| Dhanush Polasi | [@DhanushP545](https://github.com/DhanushP545) |
+| Sujithraa | [@Suji2007hub](https://github.com/Suji2007hub) |
+| Noor Nabeeha | [@noornabeeha](https://github.com/noornabeeha/) |
+| Eswar V | [@eswar0113](https://github.com/eswar0113) |
 
-**Repository:** [https://github.com/AkshayBakale/Infosys-Internship](https://github.com/AkshayBakale/Infosys-Internship)
+**Repository:** [https://github.com/AkshayBakale/Infosys-Internship/tree/main/Final%20Project/Cyber-Risk-and-Threat-Intelligence-platform-main%20(1)/Cyber-Risk-and-Threat-Intelligence-platform-main](https://github.com/AkshayBakale/Infosys-Internship/tree/main/Final%20Project/Cyber-Risk-and-Threat-Intelligence-platform-main%20(1)/Cyber-Risk-and-Threat-Intelligence-platform-main)
 
 ---
 
